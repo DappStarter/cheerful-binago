@@ -1,0 +1,8 @@
+{
+    "name": "TRON MARIO",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/": true,
+        "/framework/vanilla": true
+    }
+}
